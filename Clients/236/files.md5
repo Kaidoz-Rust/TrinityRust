@@ -1,5 +1,16 @@
 \doorstop_config.ini:72f79fe3
 \winhttp.dll:81b530cc
+\AC\Alkad.exe:24c14b69
+\AC\discord_game_sdk.dll:f4ab0899
+\AC\Facepunch.Steamworks.Win64.dll:cb0378f1
+\AC\GameWer.Module.dll:ad0fe9d2
+\AC\GameWer.SDK.dll:2913989f
+\AC\GameWer.UI.Default.dll:7b4f03d2
+\AC\Newtonsoft.Json.dll:0b0b60fe
+\AC\steam_api64.dll:4874972f
+\AC\Updater.exe:787f9453
+\AC\version.dat:8c1d7442
+\AC\websocket-sharp.dll:f27515d1
 \BepInEx\cache\chainloader_typeloader.dat:f4575832
 \BepInEx\config\BepInEx.cfg:0558cb37
 \BepInEx\core\0Harmony.dll:9ab18d87
